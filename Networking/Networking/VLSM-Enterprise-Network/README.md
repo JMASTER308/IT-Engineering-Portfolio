@@ -24,7 +24,7 @@ Design an IP addressing scheme for five company departments using the allocated 
 - Network topology design
 
 ## Project Files
-- VLSM-Enterprise-Network.pkt — Packet Tracer activity
+- Subnetting.pkt — Packet Tracer activity
 - topology.png — Network topology screenshot
 
 ## Implementation Status
